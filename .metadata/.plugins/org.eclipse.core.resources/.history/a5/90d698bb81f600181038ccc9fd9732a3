@@ -1,0 +1,5 @@
+package com.tutorialspoint.springbootdemo.controller;
+
+public class SpringDemoController {
+
+}
